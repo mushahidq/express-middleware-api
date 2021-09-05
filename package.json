@@ -1,7 +1,7 @@
 {
-  "name": "hello-hacks-api",
+  "name": "express-middleware-api",
   "version": "1.0.0",
-  "description": "API for Hello Hacks project",
+  "description": "API written in express with a middleware auth for jwt token",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
